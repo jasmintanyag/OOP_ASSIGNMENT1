@@ -1,1 +1,1 @@
-# PRACTICE
+# Auto-Capture Smiling Face
