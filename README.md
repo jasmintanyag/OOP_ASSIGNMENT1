@@ -1,1 +1,1 @@
-# Auto-CApture Smiling Face
+# Auto-Capture Smiling Face
